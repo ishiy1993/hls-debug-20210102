@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src/Main.hs"
+      component: "hls-debug:exe:hls-debug"
+
+    - path: "./src/Lib.hs"
+      component: "hls-debug:exe:hls-debug"
